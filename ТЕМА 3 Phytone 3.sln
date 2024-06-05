@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ТЕМА 3 Phytone 3", "ТЕМА 3 Phytone 3\ТЕМА 3 Phytone 3.pyproj", "{4794C9CB-2932-4ADC-81E9-A12895C64AEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4794C9CB-2932-4ADC-81E9-A12895C64AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4794C9CB-2932-4ADC-81E9-A12895C64AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {636E3E0A-DD10-4F00-A4EF-E73DDE9687C4}
+	EndGlobalSection
+EndGlobal
